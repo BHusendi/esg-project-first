@@ -39,12 +39,14 @@ wheels/
 .DS_Store
 
 # Data & Outputs
-data/processed/
-outputs/
-*.csv
-*.txt
-*.png
-*.jpg
+# Data & Outputs
+# data/processed/
+# outputs/
+# *.csv
+# *.txt
+# *.png
+# *.jpg
+
 
 # Testing
 .pytest_cache/
